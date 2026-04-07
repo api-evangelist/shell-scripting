@@ -16,10 +16,10 @@ apis:
     humanUrl: https://www.shellcheck.net/
     baseUrl: https://api.shellcheck.net/v1
     tags:
-      - Shell
       - Linting
-      - Validation
+      - Shell
       - Static Analysis
+      - Validation
     properties:
       - type: Documentation
         url: https://github.com/koalaman/shellcheck/wiki
@@ -37,9 +37,9 @@ apis:
     baseUrl: https://api.bash-snippets.org/v1
     tags:
       - Bash
-      - Utilities
       - Scripts
       - Snippets
+      - Utilities
     properties:
       - type: Documentation
         url: https://github.com/alexanderepstein/Bash-Snippets/wiki
@@ -53,8 +53,8 @@ apis:
     baseUrl: https://api.explainshell.com/v1
     tags:
       - Documentation
-      - Parsing
       - Education
+      - Parsing
       - Shell Commands
     properties:
       - type: Documentation
@@ -83,9 +83,9 @@ apis:
     humanUrl: https://github.com/anordal/shellharden
     baseUrl: https://api.shellharden.org/v1
     tags:
-      - Security
       - Best Practices
       - Linting
+      - Security
     properties:
       - type: Documentation
         url: https://github.com/anordal/shellharden/blob/master/README.md
@@ -96,14 +96,14 @@ maintainers:
     email: contact@shell-scripting-apis.org
     url: https://shell-scripting-apis.org
 tags:
-  - Shell
-  - Bash
-  - Scripting
-  - Linux
-  - Unix
-  - DevOps
   - Automation
+  - Bash
   - CLI
+  - DevOps
+  - Linux
+  - Scripting
+  - Shell
+  - Unix
 include:
   - name: Related Resources
     url: https://example.com/related-apis.yaml
