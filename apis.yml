@@ -92,6 +92,10 @@ apis:
     humanUrl: https://shell-compiler.example.com
     baseUrl: https://api.shell-compiler.example.com/v1
     tags:
+      - Compilers
+      - Optimization
+      - Shell
+    tags_raw:
       - Compiler
       - Optimization
       - Shell
